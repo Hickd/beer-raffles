@@ -5,7 +5,7 @@ The raffle is now over so this cannot be used any more.
 
 The form for the raffle is shown below:
 
-
+![raffle page](beer-raffle-form.png)
 
 The bot would read emails and names from profiles.csv and proxies from proxies.txt.
 
@@ -15,3 +15,4 @@ This could essentially allow you to enter hundreds of times.
 
 A webhook is shown below of an example entry:
 
+![webhook](webhook.jpg)
